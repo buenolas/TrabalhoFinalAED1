@@ -31,7 +31,7 @@ O código do projeto está organizado em vários arquivos e diretórios:
 
 - `main.c`: Contém a função principal do programa e a interface do usuário.
 - `tad.c` e `tad.h`: Implementação das estruturas de dados e operações para gerenciar a fila hospitalar.
-- `Makefile`: Arquivo de configuração para compilar o código.
+  
 
 ## Contribuições
 Este projeto é resultado do esforço conjunto de todos os membros do grupo. Se você deseja contribuir para o desenvolvimento ou aprimoramento deste projeto, sinta-se à vontade para fazer um fork deste repositório e criar uma solicitação de pull.
